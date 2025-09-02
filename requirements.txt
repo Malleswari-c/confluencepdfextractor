@@ -1,0 +1,4 @@
+pdfkit
+requests
+python-dotenv
+logging

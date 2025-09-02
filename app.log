@@ -1,0 +1,59 @@
+2024-08-08 10:17:44,042 - ERROR - 403 Client Error: Forbidden for url: https://concertidc-team-c.atlassian.net/wiki/rest/api/content?spaceKey=None&expand=body.storage
+2024-08-08 10:17:44,050 - INFO - creating files
+2024-08-08 10:17:44,050 - ERROR - 'NoneType' object is not iterable
+2024-08-08 10:19:53,216 - ERROR - 403 Client Error: Forbidden for url: https://concertidc-team-c.atlassian.net/wiki/rest/api/content?spaceKey=None&expand=body.storage
+2024-08-08 10:19:53,216 - INFO - creating files
+2024-08-08 10:19:53,216 - ERROR - 'NoneType' object is not iterable
+2024-08-08 10:23:26,733 - ERROR - 403 Client Error: Forbidden for url: https://concertidc-team-c.atlassian.net/wiki/rest/api/content?spaceKey=~7120206c96a428744b4fe2950ab439032b675c&expand=body.storage
+2024-08-08 10:23:26,733 - INFO - creating files
+2024-08-08 10:23:26,733 - ERROR - 'NoneType' object is not iterable
+2024-08-08 10:25:04,391 - INFO - creating files
+2024-08-08 10:25:05,446 - INFO - file Getting started in Confluence created
+2024-08-08 10:25:06,378 - INFO - file Overview created
+2024-08-08 10:25:07,410 - INFO - file The Art life created
+2024-08-08 10:25:07,410 - INFO - successful
+2024-08-08 11:48:52,675 - INFO - creating files
+2024-08-08 11:48:53,631 - INFO - file Getting started in Confluence created
+2024-08-08 11:48:54,536 - INFO - file Overview created
+2024-08-08 11:48:55,524 - INFO - file The Art life created
+2024-08-08 11:48:55,524 - INFO - successful
+2024-08-08 11:59:39,837 - INFO - creating files
+2024-08-08 11:59:39,837 - INFO - Fetching content of the page 1016029
+2024-08-08 11:59:40,844 - INFO - file Getting started in Confluence created
+2024-08-08 11:59:40,844 - INFO - Fetching content of the page 1016030
+2024-08-08 11:59:41,669 - INFO - file Overview created
+2024-08-08 11:59:41,669 - INFO - Fetching content of the page 1638403
+2024-08-08 11:59:42,704 - INFO - file The Art life created
+2024-08-08 11:59:42,704 - INFO - successful
+2024-08-08 12:25:57,569 - INFO - creating files
+2024-08-08 12:25:57,569 - INFO - Fetching content of the page 1016029
+2024-08-08 12:25:58,623 - INFO - file Getting started in Confluence created
+2024-08-08 12:25:58,623 - INFO - Fetching content of the page 1016030
+2024-08-08 12:25:59,551 - INFO - file Overview created
+2024-08-08 12:25:59,551 - INFO - Fetching content of the page 1638403
+2024-08-08 12:26:00,542 - INFO - file The Art life created
+2024-08-08 12:26:00,542 - INFO - successful
+2024-08-08 12:29:42,616 - INFO - creating files
+2024-08-08 12:29:42,616 - INFO - Fetching content of the page 1016029
+2024-08-08 12:29:43,764 - INFO - file Getting started in Confluence created
+2024-08-08 12:29:43,764 - INFO - Fetching content of the page 1016030
+2024-08-08 12:29:44,846 - INFO - file Overview created
+2024-08-08 12:29:44,846 - INFO - Fetching content of the page 1638403
+2024-08-08 12:29:46,020 - INFO - file The Art life created
+2024-08-08 12:29:46,020 - INFO - successful
+2024-08-08 12:30:47,451 - INFO - creating files
+2024-08-08 12:30:47,451 - INFO - Fetching content of the page 1016029
+2024-08-08 12:30:48,506 - INFO - file Getting started in Confluence created
+2024-08-08 12:30:48,506 - INFO - Fetching content of the page 1016030
+2024-08-08 12:30:49,436 - INFO - file Overview created
+2024-08-08 12:30:49,436 - INFO - Fetching content of the page 1638403
+2024-08-08 12:30:50,469 - INFO - file The Art life created
+2024-08-08 12:30:50,469 - INFO - successful
+2024-08-08 12:54:32,538 - INFO - creating files
+2024-08-08 12:54:32,538 - INFO - Fetching content of the page 1016029
+2024-08-08 12:54:33,553 - INFO - file Getting started in Confluence created
+2024-08-08 12:54:33,553 - INFO - Fetching content of the page 1016030
+2024-08-08 12:54:34,426 - INFO - file Overview created
+2024-08-08 12:54:34,426 - INFO - Fetching content of the page 1638403
+2024-08-08 12:54:35,501 - INFO - file The Art life created
+2024-08-08 12:54:35,501 - INFO - successful
